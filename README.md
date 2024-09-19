@@ -1,0 +1,2 @@
+# ncurses
+Practicing some ncurses
